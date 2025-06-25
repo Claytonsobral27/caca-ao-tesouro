@@ -1,0 +1,5 @@
+# config.py
+
+TAMANHO_MAPA = 5
+VALOR_JOGADOR = -1
+SIMBOLO_JOGADOR = '🧍'
