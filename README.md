@@ -19,11 +19,11 @@ Projeto simples feito com Python e Tkinter, onde o objetivo é encontrar um teso
  Estrutura do projeto
 
 caca-ao-tesouro/
-├── main.py # Interface com Tkinter
-├── jogo.py # Funções e lógica do jogo
-├── config.py # Arquivo de configurações (tamanho do mapa, símbolos)
-├── bd.py # Gerencia banco de dados SQLite
-└── README.md # Este arquivo
+├── main.py # Interface com Tkinter <br>
+├── jogo.py # Funções e lógica do jogo<br>
+├── config.py # Arquivo de configurações (tamanho do mapa, símbolos)<br>
+├── bd.py # Gerencia banco de dados SQLite<br>
+└── README.md # Este arquivo<br>
 
 ---
 
