@@ -46,4 +46,7 @@ Como executar
   Play the game with : 
   python main.py
 
-  
+  ## 🖼️ Demonstração do Jogo
+
+![Demonstração do jogo](./interface.gif)
+
