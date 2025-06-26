@@ -1,6 +1,6 @@
 
- <img
- Caça ao Tesouro – Jogo em Python
+![Capa do Projeto](./cacaAotesouro.png)
+
 
 Projeto simples feito com Python e Tkinter, onde o objetivo é encontrar um tesouro escondido em um mapa. A cada movimento, a pontuação aumenta. No final do jogo, a pontuação é salva em um banco de dados local (SQLite).
 
